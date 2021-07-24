@@ -1,0 +1,24 @@
+[178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Narater: BF and GF are at the park.
+:gf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      GF: Geez... That was intense. Have you seen his face?
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Yea, it was very uh.... "ballistic".
+:gf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      GF: At least now we can go to the park like we originally intended!
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Mhm!
+:gf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      GF: You know, i really had fun during all those weeks spent with you.
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: I'm glad you did... 
+:gf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      GF: Makes me wonder who will be next to challenge you, pff.
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Hopefully no one anytime soon, i'm tired...  
+:hex: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ***: Hello!
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Hmm?
+:hex: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ***: Are you perhaps up for a game or two?
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Uhh... sorry dude, i'm not really good at basketball.
+:hex: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ***: Oh, no no, I meant like, you know, the microphone.
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Oh! Maybe then- Wait a minute.
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Are you another guy that's not cool with me dating her?
+:hex: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ***: Huh? No, where did that come from?
+:hex: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ***: I just thought it would be fun to use my microphone after a long time!
+:gf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      GF: Hmm... he does seem chill, what do you think?
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: If it's gonna be just for fun then I'm up for it!
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Are you ready then... uh... what's your name?
+:hex: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Hex: Hex! I'm always ready!
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      BF: Alright Hex, let's funk!

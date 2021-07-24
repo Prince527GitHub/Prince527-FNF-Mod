@@ -1,0 +1,102 @@
+function start(song) {
+    var bg = new FlxSprite(-600, -200).loadGraphic(hscriptPath + 'stagebg.png');
+    bg.scrollFactor.set(0.9, 0.9);
+    bg.antialiasing = true;
+    addSprite(bg, BEHIND_ALL);
+
+    var bg2 = new FlxSprite(-600, -200).loadGraphic(hscriptPath + 'moon.png');
+    bg2.scrollFactor.set(0.9, 0.9);
+    bg2.antialiasing = true;
+    addSprite(bg2, BEHIND_ALL);
+
+    var bg3 = new FlxSprite(-600, -200).loadGraphic(hscriptPath + 'stars.png');
+    bg3.scrollFactor.set(0.9, 0.9);
+    bg3.antialiasing = true;
+    addSprite(bg3, BEHIND_ALL);
+
+    var bg4 = new FlxSprite(-600, -200).loadGraphic(hscriptPath + 'city.png');
+    bg4.scrollFactor.set(0.9, 0.9);
+    bg4.antialiasing = true;
+    addSprite(bg4, BEHIND_ALL);
+
+    var petal = new FlxSprite(-600, -200);
+    var petalte = FlxAtlasFrames.fromSparrow(hscriptPath + 'lights.png', hscriptPath + 'lights.xml');
+    petal.frames = petalte;
+    petal.antialiasing = true;
+    petal.animation.addByPrefix("background", "lights", 8, true);
+    petal.animation.play("background");
+    petal.scrollFactor.set(0.85, 0.85);
+    petal.setGraphicSize(Std.int(1 * petal.width));
+    addSprite(petal, BEHIND_ALL);
+
+    var bg5 = new FlxSprite(-600, -200).loadGraphic(hscriptPath + 'stage.png');
+    bg5.scrollFactor.set(0.9, 0.9);
+    bg5.antialiasing = true;
+    addSprite(bg5, BEHIND_ALL);
+
+    var awawa = new FlxSprite(-550, -375);
+    var awawatt = FlxAtlasFrames.fromSparrow(hscriptPath + 'audience.png', hscriptPath + 'audience.xml');
+    awawa.frames = awawatt;
+    awawa.antialiasing = true;
+    awawa.animation.addByPrefix("ggggg2g", "audience", 4, true);
+    awawa.animation.play("ggggg2g");
+    awawa.scrollFactor.set(0.85, 0.85);
+    awawa.setGraphicSize(Std.int(1 * awawa.width));
+    addSprite(awawa, BEHIND_ALL);
+
+    var back = new FlxSprite(-400, 850);
+    var backte = FlxAtlasFrames.fromSparrow(hscriptPath + 'chatbubbles.png', hscriptPath + 'chatbubbles.xml');
+    back.frames = backte;
+    back.antialiasing = true;
+    back.animation.addByPrefix("gggggg", "chat", 19, true);
+    back.animation.play("gggggg");
+    back.scrollFactor.set(0.85, 0.85);
+    back.setGraphicSize(Std.int(1 * back.width));
+    addSprite(back, BEHIND_ALL);
+
+    setDefaultZoom(0.69);
+    //getHaxeActor("bf").x += 700;
+    //getHaxeActor("bf").y += 325;
+    //getHaxeActor('gf').x += 400;
+    //getHaxeActor('gf').y += -275;
+    //getHaxeActor('bf').followCamX -= 100;
+    //getHaxeActor('bf').followCamY -= 100;
+}
+
+
+function beatHit(beat)
+{
+}
+
+function update(elapsed)
+{
+}
+
+function stepHit(step)
+{
+}
+
+function playerTwoTurn()
+{
+}
+
+function playerTwoMiss()
+{
+}
+
+function playerTwoSing()
+{
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}
+

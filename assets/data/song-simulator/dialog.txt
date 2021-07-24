@@ -1,0 +1,4 @@
+[178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      beep?
+:guest: !GuestPortait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      bap boop de skdoo..

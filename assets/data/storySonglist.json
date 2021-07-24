@@ -1,0 +1,231 @@
+{
+  "songs": [
+    ["tutorial selected","Tutorial"],
+    ["WEEK1 select", "Bopeebo", "Fresh","Dadbattle"],
+    ["week2 select", "Spookeez", "South", "Monster"],
+    ["Week 3 press", "Pico", "Philly", "Blammed"],
+    ["Week 4 press", "Satin-Panties", "High", "Milf"],
+    ["week 5", "Cocoa", "Eggnog", "Winter-Horrorland"],
+    ["Week 6", "Senpai", "Roses", "Thorns"],
+    ["week 7", "Ugh", "Guns", "Stress"],
+    ["week 8", "parish", "worship", "zavodila", "gospel", "casanova"],
+    ["week 9", "light-it-up", "ruckus", "target-practice"],
+    ["week 10", "sporting", "boxing-match"],
+    ["week 11", "popipo", "aishite", "siu", "disappearance"],
+    ["week 12", "my-battle", "last-chance", "genocide"],
+    ["Week 13", "wife-forever", "sky", "manifest"],
+    ["Week 14", "dunk", "ram", "hello-world", "glitcher"],
+    ["Week 15", "creaper-aw-man", "fallen-kindom", "don't-mine-at-night"],
+    ["Week 16", "screenplay", "parasite", "a.g.o.t.i"],
+    ["week 17", "mc-bopeebo", "mc-fresh", "mc-dadbattle", "mc-spookeez", "mc-south"],
+    ["Week 18", "slash"],
+    ["Week 19", "foolhardy"],
+    ["Week 20", "Song-Simulator", "Respawn", "Banned", "Hacked"],
+    ["Week 21", "candid-friend", "maiden's-short-life-～-sentence-of-death", "mahorobagraphie"],
+    ["Week 22", "the-maid-and-the-pocket-watch-of-blood", "lunar-clock~luna-dial", "night-of-knights"],
+    ["Week 23", "scarlet-syndrome", "hedonism", "nanahira"]
+  ],
+  "weekNames": [
+    "Learnin' How To Rap",
+    "Daddy Dearest",
+    "Spooky Month",
+    "PICO",
+    "MOMMY MUST MURDER",
+    "RED SNOW",
+    "hating simulator ft. moawling",
+    "TANKMAN",
+    "Mid-fight masses ft. selever",
+    "Matt's tuesdy singing lessons",
+    "Matt is done with your shit",
+    "Concert conudrum ft. en and genox",
+    "Uncule Tabi!",
+    "Sky by @bfswifeforever",
+    "Hextravaganza",
+    "Minecraft ft. FNF",
+    "Presenting A.G.O.T.I in prisoner of the void",
+    "Minecraft but FNF?!?",
+    "How did you get in the GAME?!?",
+    "Presenting GF and the scare scrow!",
+    "Guest 678",
+    "Touhou?!",
+    "Sakuya ft. FNF",
+    "Now your in japan?"
+  ],
+  "characters": [
+    ["dad", "bf", "gf"],
+    ["dad", "bf", "gf"],
+    ["spooky", "bf", "gf"],
+    ["pico", "bf", "gf"],
+    ["mom", "bf", "gf"],
+    ["parents-christmas", "bf", "gf"],
+    ["senpai", "bf", "gf"],
+    ["tankman", "bf", "gf"],
+    ["sarvente", "bf", "gf"],
+    ["matt", "bf", "gf"],
+    ["matt", "bf", "gf"],
+    ["miku", "bf", "gf"],
+    ["tabi", "bf", "gf"],
+    ["sky", "bf", "gf"],
+    ["hex", "bf", "gf"],
+    ["steve", "bf", "gf"],
+    ["agoti", "bf", "gf"],
+    ["steve", "bf", "gf"],
+    ["mc", "bf", "gf"],
+    ["scare", "bf", "gf"],
+    ["guest", "bf", "gf"],
+    ["nitori", "bf", "suika"],
+    ["sakuya", "bf", "suika"],
+    ["japan", "bf", "suika"]
+  ],
+  "weeks": [
+    {
+      "songs": ["Tutorial"],
+      "name": "Learnin' How To Rap",
+      "animation": "tutorial selected",
+      "dad": "dad",
+    },
+    {
+      "songs": ["Bopeebo", "Fresh", "Dadbattle"],
+      "name": "Daddy Dearest",
+      "animation": "WEEK1 select",
+      "dad": "dad"
+    },
+    {
+      "songs": ["Spookeez", "South", "Monster"],
+      "animation": "week2 select",
+      "name": "Spooky Month",
+      "dad": "spooky"
+    },
+    {
+      "songs": ["Pico", "Philly", "Blammed"],
+      "animation": "Week 3 press",
+      "name": "PICO",
+      "dad": "pico"
+    },
+    {
+      "songs": ["Satin-Panties", "High", "Milf"],
+      "animation": "Week 4 press",
+      "name": "MOMMY MUST MURDER",
+      "dad": "mom"
+    },
+    {
+      "songs": ["Cocoa", "Eggnog", "Winter-Horrorland"],
+      "animation": "week 5",
+      "name": "RED SNOW",
+      "dad": "parents-christmas"
+    },
+    {
+      "songs": ["Senpai", "Roses", "Thorns"],
+      "animation": "Week 6",
+      "name": "hating simulator ft. moawling",
+      "dad": "senpai"
+    },
+    {
+      "songs": ["Ugh", "Guns", "Stress"],
+      "animation": "week7",
+      "name": "TANKMAN",
+      "dad": "tankman"
+    },
+    {
+      "songs": ["parish", "worship", "zavodila", "gospel", "casanova"],
+      "animation": "Week 8",
+      "name": "Mid-fight masses ft. selever",
+      "dad": "sarvente"
+    },
+    {
+      "songs": ["light-it-up", "ruckus", "target-practice"],
+      "animation": "Week 9",
+      "name": "Matt's tuesdy singing lessons",
+      "dad": "matt"
+    },
+    {
+      "songs": ["sporting", "boxing-match"],
+      "animation": "Week 10",
+      "name": "Matt is done with your shit",
+      "dad": "matt"
+    },
+    {
+      "songs": ["popipo", "aishite", "siu", "disappearance"],
+      "animation": "Week 11",
+      "name": "Concert conudrum ft. en and genox",
+      "dad": "miku"
+    },
+    {
+      "songs": ["my-battle", "last-chance", "genocide"],
+      "animation": "Week 12",
+      "name": "Uncule Tabi!",
+      "dad": "tabi"
+    },
+    {
+      "songs": ["wife-forever", "sky", "manifest"],
+      "animation": "Week 13",
+      "name": "Sky by @bfswifeforever",
+      "dad": "sky"
+    },
+    {
+      "songs": ["dunk", "ram", "hello-world", "glitcher"],
+      "animation": "Week 14",
+      "name": "Hextravaganza",
+      "dad": "hex"
+    },
+    {
+      "songs": ["creaper-aw-man", "fallen-kindom", "don't-mine-at-night"],
+      "animation": "Week 15",
+      "name": "Minecraft ft. FNF",
+      "dad": "steve"
+    },
+    {
+      "songs": ["screenplay", "parasite", "a.g.o.t.i"],
+      "animation": "Week 16",
+      "name": "Presenting A.G.O.T.I in prisoner of the void",
+      "dad": "agoti"
+    },
+    {
+      "songs": ["mc-bopeebo", "mc-fresh", "mc-dadbattle", "mc-spookeez", "mc-south"],
+      "animation": "Week 17",
+      "name": "Minecraft but FNF?!?",
+      "dad": "steve"
+    },
+    {
+      "songs": ["slash"],
+      "animation": "Week 18",
+      "name": "How did you get in the GAME?!?",
+      "dad": "mc"
+    },
+    {
+      "songs": ["foolhardy"],
+      "animation": "Week 19",
+      "name": "Presenting GF and the scare scrow!",
+      "dad": "scare"
+    },
+    {
+      "songs": ["Song-Simulator", "Respawn", "Banned", "Hacked"],
+      "animation": "Week 20",
+      "name": "Guest 678",
+      "dad": "guest"
+    },
+    {
+      "songs": ["candid-friend", "maiden's-short-life-～-sentence-of-death", "mahorobagraphie"],
+      "animation": "Week21",
+      "name": "Touhou?!",
+      "dad": "nitori",
+      "gf":"suika"
+    },
+    {
+      "songs": ["the-maid-and-the-pocket-watch-of-blood", "lunar-clock~luna-dial", "night-of-knights"],
+      "animation": "Week22",
+      "name": "Sakuya ft. FNF",
+      "dad": "sakuya",
+      "gf":"suika"
+    },
+    {
+      "songs": ["scarlet-syndrome", "hedonism", "nanahira"],
+      "animation": "Week23",
+      "name": "Now your in japan?",
+      "dad": "japan",
+      "gf":"suika"
+    }
+
+  ],
+  "version": 2
+}

@@ -1,0 +1,12 @@
+:dad: what does this button do-
+:dad: what the
+:dad: i could communicate this entire time?
+:bf: beep bop ba skbee do! bep da boop!
+:dad: fine, this time i'll try harder
+
+[178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:guest: !GuestPortait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      what does this button do-
+:guest: !GuestPortait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      what the
+:guest: !GuestPortait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      i could communicate this entire time?
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      beep bop ba skbee do! bep da boop!
+:guest: !GuestPortait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      fine, this time i'll try harder

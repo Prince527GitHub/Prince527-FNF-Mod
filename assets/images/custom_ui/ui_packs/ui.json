@@ -1,0 +1,30 @@
+{
+    "normal": {
+        "isPixel": false,
+        "builtInJudgement": false,
+        //uses is the folder it actually goes into :blush:
+        // we use this to make judgements and shit : )
+        // this also applies to judgements loser
+        "uses": "normal"
+    },
+    "pixel": {
+        "isPixel": true,
+        "builtInJudgement": false,
+        "uses": "normal"
+    },
+    "mc": {
+        "isPixel": true,
+        "builtInJudgement": false,
+        "uses": "mc"
+    },
+    "luci": {
+        "isPixel": false,
+        "builtInJudgement": false,
+        "uses": "luci"
+    },
+    "agoti": {
+        "isPixel": false,
+        "builtInJudgement": false,
+        "uses": "agoti"
+    }
+}

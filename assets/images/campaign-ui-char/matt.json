@@ -1,0 +1,7 @@
+{
+  "animation": {
+    "idle": "matt idle"
+  },
+  "scale": 0.75,
+  "offset": [-25,50]
+}

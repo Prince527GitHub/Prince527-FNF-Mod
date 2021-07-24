@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portrait.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="GuestPortait0000" x="0" y="0" width="277" height="244" frameX="450" frameY="0" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

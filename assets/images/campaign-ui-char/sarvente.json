@@ -1,0 +1,7 @@
+{
+  "animation": {
+    "idle": "Cross and Sickle"
+  },
+  "scale": 0.45,
+  "offset": [-175,-50]
+}

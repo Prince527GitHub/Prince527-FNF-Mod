@@ -1,0 +1,50 @@
+function start(song) {
+    var bg = new FlxSprite(-600, -200).loadGraphic(hscriptPath + 'garStagebg.png');
+    bg.scrollFactor.set(0.9, 0.9);
+    bg.antialiasing = true;
+    addSprite(bg, BEHIND_ALL);
+
+    var bg2 = new FlxSprite(-600, -200).loadGraphic(hscriptPath + 'garStage.png');
+    bg2.scrollFactor.set(0.9, 0.9);
+    bg2.antialiasing = true;
+    addSprite(bg2, BEHIND_ALL);
+}
+
+
+function beatHit(beat)
+{
+
+}
+
+function update(elapsed)
+{
+}
+
+function stepHit(step)
+{
+}
+
+function playerTwoTurn()
+{
+}
+
+function playerTwoMiss()
+{
+}
+
+function playerTwoSing()
+{
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}
+

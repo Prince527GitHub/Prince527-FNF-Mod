@@ -1,0 +1,76 @@
+function start(song) {
+    var petal = new FlxSprite(585, 475);
+    var petalte = FlxAtlasFrames.fromSparrow(hscriptPath + 'The_void.png', hscriptPath + 'The_void.xml');
+    petal.frames = petalte;
+    petal.animation.addByPrefix("background", "VoidShift", 75, true);
+    petal.animation.play("background");
+    petal.scrollFactor.set(0.85, 0.85);
+    petal.setGraphicSize(Std.int(3.29 * petal.width));
+    addSprite(petal, BEHIND_ALL);
+
+    var awawa = new FlxSprite(-550, -375);
+    var awawatt = FlxAtlasFrames.fromSparrow(hscriptPath + 'Pillar_BG_Stage.png', hscriptPath + 'Pillar_BG_Stage.xml');
+    awawa.frames = awawatt;
+    awawa.animation.addByPrefix("ggggg2g", "Pillar_BG_Stage", 14, true);
+    awawa.animation.play("ggggg2g");
+    awawa.scrollFactor.set(0.85, 0.85);
+    awawa.setGraphicSize(Std.int(1 * awawa.width));
+    addSprite(awawa, BEHIND_ALL);
+
+    var back = new FlxSprite(-400, 850);
+    var backte = FlxAtlasFrames.fromSparrow(hscriptPath + 'LoudSpeaker_Moving.png', hscriptPath + 'LoudSpeaker_Moving.xml');
+    back.frames = backte;
+    back.animation.addByPrefix("gggggg", "StereoMoving", 8, true);
+    back.animation.play("gggggg");
+    back.scrollFactor.set(0.85, 0.85);
+    back.setGraphicSize(Std.int(1 * back.width));
+    addSprite(back, BEHIND_ALL);
+
+    setDefaultZoom(0.69);
+    getHaxeActor("bf").x += 700;
+    getHaxeActor("bf").y += 325;
+    getHaxeActor('gf').x += 400;
+    getHaxeActor('gf').y += -275;
+    getHaxeActor('bf').followCamX -= 100;
+    getHaxeActor('bf').followCamY -= 100;
+}
+
+
+function beatHit(beat)
+{
+
+}
+
+function update(elapsed)
+{
+    gf.playAnim('hairBlow');
+}
+
+function stepHit(step)
+{
+}
+
+function playerTwoTurn()
+{
+}
+
+function playerTwoMiss()
+{
+}
+
+function playerTwoSing()
+{
+}
+
+function playerOneTurn()
+{
+}
+
+function playerOneMiss()
+{
+}
+
+function playerOneSing()
+{
+}
+

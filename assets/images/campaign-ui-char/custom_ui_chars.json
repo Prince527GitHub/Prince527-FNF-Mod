@@ -1,0 +1,98 @@
+{
+  "bf": {
+    "like": "bf",
+    "defaultGraphics": true
+  },
+  "gf": {
+    "like": "gf",
+    "defaultGraphics": true
+  },
+  "dad": {
+    "like": "dad",
+    "defaultGraphics": true
+  },
+  "mom": {
+    "like": "mom",
+    "defaultGraphics": true
+  },
+  "spooky": {
+    "like": "spooky",
+    "defaultGraphics": true
+  },
+  "pico": {
+    "like": "pico",
+    "defaultGraphics": true
+  },
+  "parents-christmas": {
+    "like": "parents-christmas",
+    "defaultGraphics": true
+  },
+  "senpai":{
+    "like": "senpai",
+    "defaultGraphics": true
+  },
+  "tankman": {
+    "like": "tankman",
+    "defaultGraphics": true
+  },
+  "sarvente": {
+    "like": "sarvente",
+    "defaultGraphics": false
+  },
+  "matt": {
+    "like": "matt",
+    "defaultGraphics": false
+  },
+  "miku": {
+    "like": "miku",
+    "defaultGraphics": false
+  },
+  "tabi": {
+    "like": "tabi",
+    "defaultGraphics": false
+  },
+  "sky": {
+    "like": "sky",
+    "defaultGraphics": false
+  },
+  "hex": {
+    "like": "hex",
+    "defaultGraphics": false
+  },
+  "steve": {
+    "like": "steve",
+    "defaultGraphics": false
+  },
+  "agoti": {
+    "like": "agoti",
+    "defaultGraphics": false
+  },
+  "mc": {
+    "like": "mc",
+    "defaultGraphics": false
+  },
+  "guest": {
+    "like": "guest",
+    "defaultGraphics": false
+  },
+  "scare": {
+    "like": "scare",
+    "defaultGraphics": false
+  },
+  "sakuya": {
+	  "like": "sakuya",
+	  "defaultGraphics": false
+  },
+  "nitori": {
+	  "like": "nitori",
+	  "defaultGraphics": false
+  },
+  "suika": {
+    "like": "suika",
+    "defaultGraphics": false
+  },
+  "japan": {
+    "like": "japan",
+    "defaultGraphics": false
+  }
+}

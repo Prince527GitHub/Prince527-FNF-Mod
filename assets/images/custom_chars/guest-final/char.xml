@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guest_spookyy.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="spooky guest down0000" x="0" y="0" width="201" height="438"/>
+	<SubTexture name="spooky guest down0001" x="0" y="0" width="201" height="438"/>
+	<SubTexture name="spooky guest down0002" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0003" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0004" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0005" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0006" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0007" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0008" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0009" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0010" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0011" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest down0012" x="201" y="0" width="201" height="427" frameX="0" frameY="-11" frameWidth="201" frameHeight="438"/>
+	<SubTexture name="spooky guest idle0000" x="402" y="0" width="237" height="413" frameX="0" frameY="-22" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0001" x="402" y="0" width="237" height="413" frameX="0" frameY="-22" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0002" x="639" y="0" width="223" height="421" frameX="-3" frameY="-14" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0003" x="639" y="0" width="223" height="421" frameX="-3" frameY="-14" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0004" x="862" y="0" width="218" height="435" frameX="-7" frameY="-6" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0005" x="862" y="0" width="218" height="435" frameX="-7" frameY="-6" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0006" x="1080" y="0" width="211" height="439" frameX="-7" frameY="-2" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0007" x="1080" y="0" width="211" height="439" frameX="-7" frameY="-2" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0008" x="1291" y="0" width="206" height="441" frameX="-7" frameY="0" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0009" x="1291" y="0" width="206" height="441" frameX="-7" frameY="0" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0010" x="1291" y="0" width="206" height="441" frameX="-7" frameY="0" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0011" x="1291" y="0" width="206" height="441" frameX="-7" frameY="0" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0012" x="1291" y="0" width="206" height="441" frameX="-7" frameY="0" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest idle0013" x="1291" y="0" width="206" height="441" frameX="-7" frameY="0" frameWidth="237" frameHeight="441"/>
+	<SubTexture name="spooky guest left0000" x="0" y="441" width="189" height="436" frameX="-2" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0001" x="0" y="441" width="189" height="436" frameX="-2" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0002" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0003" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0004" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0005" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0006" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0007" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0008" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0009" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0010" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0011" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest left0012" x="189" y="441" width="182" height="436" frameX="0" frameY="0" frameWidth="191" frameHeight="436"/>
+	<SubTexture name="spooky guest right0000" x="371" y="441" width="223" height="441" frameX="0" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0001" x="371" y="441" width="223" height="441" frameX="0" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0002" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0003" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0004" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0005" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0006" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0007" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0008" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0009" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0010" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0011" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest right0012" x="594" y="441" width="231" height="441" frameX="-1" frameY="0" frameWidth="232" frameHeight="441"/>
+	<SubTexture name="spooky guest up0000" x="825" y="441" width="210" height="458" frameX="0" frameY="-5" frameWidth="210" frameHeight="463"/>
+	<SubTexture name="spooky guest up0001" x="825" y="441" width="210" height="458" frameX="0" frameY="-5" frameWidth="210" frameHeight="463"/>
+	<SubTexture name="spooky guest up0002" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0003" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0004" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0005" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0006" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0007" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0008" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0009" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0010" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0011" x="1035" y="441" width="210" height="463"/>
+	<SubTexture name="spooky guest up0012" x="1035" y="441" width="210" height="463"/>
+</TextureAtlas>

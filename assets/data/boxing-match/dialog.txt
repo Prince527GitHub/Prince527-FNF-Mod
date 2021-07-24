@@ -1,0 +1,6 @@
+[178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:mattmad: !matt portrait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      what the absolute funk is wrong with you?
+:bf: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      eat mii nuts
+:mattmad: !matt portrait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      i had patience, i gave you a chance, that's not even funny.
+:mattmad: !matt portrait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      sing as loud as you can, no one will be able to hear you scream.
+:mattmad: !matt portrait! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.08; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      i'll punch you so hard you'll forget how to speak completely.

@@ -1,0 +1,566 @@
+[
+  {
+    "name": "Base Game",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      {"name":"Tutorial",
+      "character":"gf",
+      "week": 0},
+      {
+        "name": "Bopeebo",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Fresh",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Dadbattle",
+        "character": "dad",
+        "week": 1
+      },
+      {
+        "name": "Spookeez",
+        "character": "spooky",
+        "week": 2
+      },
+      {
+        "name": "South",
+        "character": "spooky",
+        "week": 2
+      },
+      {
+        "name": "Monster",
+        "character": "monster",
+        "week": 2
+      },
+      {
+        "name": "Pico",
+        "character": "pico",
+        "week": 3
+      },
+      {
+        "name": "Philly",
+        "character": "pico",
+        "week": 3
+      },{
+        "name": "Blammed",
+        "character": "pico",
+        "week": 3
+      },
+      {
+        "name": "Satin-Panties",
+        "character": "mom",
+        "week": 4
+      },
+      {
+        "name": "High",
+        "character": "mom",
+        "week": 4
+      },{
+        "name": "Milf",
+        "character": "mom",
+        "week": 4
+      },
+      {
+        "name": "Cocoa",
+        "character": "parents-christmas",
+        "week": 5
+      },
+      {
+        "name": "Eggnog",
+        "character": "parents-christmas",
+        "week": 5
+      },
+      {
+        "name": "Winter-Horrorland",
+        "character": "monster-christmas",
+        "week": 5
+      },
+      {
+        "name": "Senpai",
+        "character": "senpai",
+        "week": 6
+      },
+      {
+        "name": "Roses",
+        "character": "senpai-angry",
+        "week": 6
+      },
+      {
+        "name": "Thorns",
+        "character": "spirit",
+        "week": 6
+      },
+      {
+        "name": "Ugh",
+        "character": "tankman",
+        "week": 7
+      },
+      {
+        "name": "Guns",
+        "character": "tankman",
+        "week": 7
+      },
+      {
+        "name": "Stress",
+        "character": "tankman",
+        "week": 7
+      },
+      {
+        "name": "Test",
+        "character": "face",
+        "week": 6,
+        "flags" : ["debug"]
+      }
+    ]
+  },
+  {
+    "name": "Mid-Fight Masses",
+    "songs": [
+      {
+        "name": "parish",
+        "character": "sarvente",
+        "week": 8,
+      },
+      {
+        "name": "worship",
+        "character": "sarvente-dark",
+        "week": 8,
+      },
+      {
+        "name": "zavodila",
+        "character": "ruv",
+        "week": 8,
+      },
+      {
+        "name": "gospel",
+        "character": "luci-sarv",
+        "week": 8,
+      },
+      {
+        "name": "casanova",
+        "character": "selever",
+        "week": 8,
+      }
+    ]
+  },
+  {
+    "name": "WiiFunkin",
+    "songs": [
+      {
+        "name": "light-it-up",
+        "character": "matt",
+        "week": 9,
+      },
+      {
+        "name": "ruckus",
+        "character": "matt",
+        "week": 9,
+      },
+      {
+        "name": "target-practice",
+        "character": "matt",
+        "week": 9,
+      },
+      {
+        "name": "sporting",
+        "character": "matt",
+        "week": 10,
+      },
+      {
+        "name": "boxing-match",
+        "character": "matt",
+        "week": 10,
+      }
+    ]
+  },
+  {
+    "name": "FNF x Miku",
+    "songs": [
+      {
+        "name": "popipo",
+        "character": "miku",
+        "week": 11,
+      },
+      {
+        "name": "aishite",
+        "character": "miku",
+        "week": 11,
+      },
+      {
+        "name": "siu",
+        "character": "miku",
+        "week": 11,
+      },
+      {
+        "name": "disappearance",
+        "character": "miku-mad",
+        "week": 11,
+      }
+    ]
+  },
+  {
+    "name": "Vs. Tabi",
+    "songs": [
+      {
+        "name": "my-battle",
+        "character": "tabi",
+        "week": 12,
+      },
+      {
+        "name": "last-chance",
+        "character": "tabi",
+        "week": 12,
+      },
+      {
+        "name": "genocide",
+        "character": "tabi-crazy",
+        "week": 12,
+      }
+    ]
+  },
+  {
+    "name": "Vs. Sky",
+    "songs": [
+      {
+        "name": "wife-forever",
+        "character": "sky",
+        "week": 13,
+      },
+      {
+        "name": "sky",
+        "character": "sky",
+        "week": 13,
+      },
+      {
+        "name": "manifest",
+        "character": "sky-mad",
+        "week": 13,
+      }
+    ]
+  },
+  {
+    "name": "Vs. hex",
+    "songs": [
+      {
+        "name": "dunk",
+        "character": "hex",
+        "week": 14,
+      },
+      {
+        "name": "ram",
+        "character": "hex",
+        "week": 14,
+      },
+      {
+        "name": "hello-world",
+        "character": "hex",
+        "week": 14,
+      },
+      {
+        "name": "glitcher",
+        "character": "hex-glicher",
+        "week": 14,
+      },
+      {
+        "name": "glitcher-wire",
+        "character": "hex-wire",
+        "week": 14,
+      },
+      {
+        "name": "encore",
+        "character": "hex",
+        "week": 14,
+      }
+    ]
+  },
+  {
+    "name": "FNF x Minecraft",
+    "songs": [
+      {
+        "name": "creaper-aw-man",
+        "character": "mc-senpai",
+        "week": 15,
+      },
+      {
+        "name": "fallen-kindom",
+        "character": "mc-senpai",
+        "week": 15,
+      },
+      {
+        "name": "don't-mine-at-night",
+        "character": "mc-senpai",
+        "week": 15,
+      }
+    ]
+  },
+    {
+    "name": "Vs. A.G.O.T.I",
+    "songs": [
+      {
+        "name": "screenplay",
+        "character": "agoti",
+        "week": 16,
+      },
+      {
+        "name": "parasite",
+        "character": "agoti",
+        "week": 16,
+      },
+      {
+        "name": "a.g.o.t.i",
+        "character": "agoti-crazy",
+        "week": 16,
+      },
+      {
+        "name": "guns-agoti",
+        "character": "agoti",
+        "week": 16,
+      }
+    ]
+  },
+  {
+    "name": "Note block songs",
+    "songs": [
+      {
+        "name": "mc-tutorial",
+        "character": "mc-senpai",
+        "week": 17,
+      },
+      {
+        "name": "mc-bopeebo",
+        "character": "mc-senpai",
+        "week": 17,
+      },
+      {
+        "name": "mc-fresh",
+        "character": "mc-senpai",
+        "week": 17,
+      },
+      {
+        "name": "mc-dadbattle",
+        "character": "mc-senpai",
+        "week": 17,
+      },
+      {
+        "name": "mc-spookeez",
+        "character": "mc-senpai",
+        "week": 17,
+      },
+      {
+        "name": "mc-south",
+        "character": "mc-senpai",
+        "week": 17,
+      }
+    ]
+  },
+  {
+    "name": "Friday Night Mining",
+    "songs": [
+      {
+        "name": "slash",
+        "character": "steve",
+        "week": 18,
+      }
+    ]
+  },
+  {
+    "name": "foolhardy",
+    "songs": [
+      {
+        "name": "foolhardy",
+        "character": "zardy",
+        "week": 19,
+      }
+    ]
+  },
+  {
+    "name": "FNF Roblox vs. Guest",
+    "songs": [
+      {
+        "name": "Song-Simulator",
+        "character": "guest",
+        "week": 20,
+      },
+      {
+        "name": "Respawn",
+        "character": "guest",
+        "week": 20,
+      },
+      {
+        "name": "Banned",
+        "character": "guest",
+        "week": 20,
+      },
+      {
+        "name": "Hacked",
+        "character": "guest-final",
+        "week": 20,
+      }
+    ]
+  },
+  {
+    "name": "Touhou",
+    "songs": [
+      {
+        "name": "candid-friend",
+        "character": "nitori",
+        "week": 21,
+      },
+      {
+        "name": "maiden's-short-life-～-sentence-of-death",
+        "character": "nitori",
+        "week": 21,
+      },
+      {
+        "name": "mahorobagraphie",
+        "character": "nitori",
+        "week": 21,
+      },
+      {
+        "name": "the-maid-and-the-pocket-watch-of-blood",
+        "character": "sakuya",
+        "week": 22,
+      },
+      {
+        "name": "lunar-clock~luna-dial",
+        "character": "sakuya",
+        "week": 22,
+      },
+      {
+        "name": "night-of-knights",
+        "character": "sakuya",
+        "week": 22,
+      },
+      {
+        "name": "scarlet-syndrome",
+        "character": "scarlet-sister",
+        "week": 23,
+      },
+      {
+        "name": "hedonism",
+        "character": "suika-play",
+        "week": 23,
+      },
+      {
+        "name": "nanahira",
+        "character": "scarlet-sister-2",
+        "week": 23,
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "songs": [
+      {
+        "name": "night-of-knights-cranky-remix",
+        "character": "sakuya",
+        "week": 24,
+      },
+      {
+        "name": "coconut-mall",
+        "character": "mom",
+        "week": 24,
+      }
+    ]
+  },
+  {
+    "name": "HoloFunk",
+    "songs": [
+      {
+        "name": "live-again",
+        "character": "cali",
+        "week": 25,
+      },
+      {
+        "name": "rip",
+        "character": "cali",
+        "week": 25,
+      },
+      {
+        "name": "callibattle",
+        "character": "cali",
+        "week": 25,
+      },
+      {
+        "name": "sharkventure",
+        "character": "gargura",
+        "week": 26,
+      },
+      {
+        "name": "mythbuster",
+        "character": "gargura",
+        "week": 26,
+      },
+      {
+        "name": "haachama",
+        "character": "holo-monster",
+        "week": 26,
+      },
+      {
+        "name": "botan",
+        "character": "holo-pico",
+        "week": 27,
+      },
+      {
+        "name": "lalion",
+        "character": "holo-pico",
+        "week": 27,
+      },
+      {
+        "name": "poi",
+        "character": "holo-pico",
+        "week": 27,
+      },
+      {
+        "name": "friday-night",
+        "character": "holo-mom-car",
+        "week": 28,
+      },
+      {
+        "name": "cinderella",
+        "character": "holo-mom-car",
+        "week": 28,
+      },
+      {
+        "name": "gangimari",
+        "character": "holo-mom-car",
+        "week": 28,
+      },
+      {
+        "name": "hands",
+        "character": "holo-mom-car",
+        "week": 28,
+      },
+      {
+        "name": "weather-hackers",
+        "character": "holo-mom-car",
+        "week": 28,
+      },
+    ]
+  },
+  // trailing commas don't matter with tjson
+  // visual studio code is just pissy
+  /*
+  uncomment this for an example
+   {
+    "name": "Custom 1",
+    "songs": [
+    {
+      "name": "Bopeebo",
+      "character": "dad",
+      "week": 1
+    },
+    {
+      "name": "Fresh",
+      "character": "dad",
+        "week" : 1
+   ]
+   },
+  */
+]
