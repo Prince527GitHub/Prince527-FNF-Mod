@@ -1,5 +1,2 @@
 normal
 pixel
-mc
-luci
-agoti

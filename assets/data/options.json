@@ -1,24 +1,24 @@
 {
-     "skipDebugScreen" : true
-    ,"style" : false
-    ,"showSongPos" : true
-    ,"useCustomInput" : false
-    ,"offset" : 0
-    ,"emuOsuLifts" : false
-    ,"skipModifierMenu" : false
-    ,"showComboBreaks" : false
-    ,"preferJudgement" : 0
-    ,"judge" : 9
-    ,"stressTankmen" : false
-    ,"useKadeHealth" : false
-    ,"accuracyMode" : 0
-    ,"useMissStun" : false
-    ,"ignoreUnlocks" : false
-    ,"newJudgementPos" : true
-    ,"skipVictoryScreen" : true
-    ,"alwaysDoCutscenes" : false
-    ,"downscroll" : false
-    ,"preferredSave" : 0
-    ,"allowEditOptions" : true
-    ,"useSaveDataMenu" : true
+    "skipVictoryScreen": false,
+    "skipModifierMenu": false,
+    "alwaysDoCutscenes": false,
+    "useCustomInput": true,
+    "allowEditOptions": true,
+    "useSaveDataMenu": true, 
+    "downscroll": false,
+    "preferredSave": 0,
+    "showSongPos": true,
+    "style": true,
+    "stressTankmen": false,
+    "ignoreUnlocks": false,
+    "preferJudgement": 0,
+    "judge": 9,
+    "newJudgementPos": false,
+    "emuOsuLifts": false,
+    "skipDebugScreen": false,
+    "showComboBreaks": true,
+    "useKadeHealth": false,
+    "useMissStun": false,
+    "offset": 0,
+    "accuracyMode": 0
 }
