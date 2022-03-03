@@ -17,4 +17,4 @@
 
  ## How to play?
 
- So you can download the [source code](https://github.com/Prince527GitHub/Prince527-s-FNF-Mod/releases) for windows.
+ So you can download the [source code](https://github.com/Prince527GitHub/Prince527-FNF-Mod/archive/refs/heads/main.zip) for windows.
